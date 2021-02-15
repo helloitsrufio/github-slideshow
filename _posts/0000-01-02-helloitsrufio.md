@@ -2,5 +2,6 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+As Lao Tzu said, 
+> The journey of a thousand miles begins with one step.
 Use the left arrow to go back!
